@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Document1</title>
 <style>
 table.second.td {  width: 250px; margin: 0 auto;} 
 .second.td td { width: 10%; text-align: center; border: 1px solid #cdc513; }</style> 
